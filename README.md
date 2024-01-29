@@ -4,7 +4,7 @@
 
 #### 💻 Technologies & Tools:
 - **Languages:** HTML, CSS, JavaScript
-- **Frontend:** Vue.js
+<!-- - **Frontend:**   -->
 - **Backend:** (Node.js, Django)
 
 
